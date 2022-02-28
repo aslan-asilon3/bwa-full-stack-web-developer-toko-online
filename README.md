@@ -1,4 +1,4 @@
 ## Table of contents
-* [General info](#general-info)
+* [https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
